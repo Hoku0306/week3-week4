@@ -1,0 +1,34 @@
+.homeIconSize {
+    font-size: 84px;
+}
+
+.footerIconSize {
+    font-size: 24px;
+}
+
+@media (min-width: 768px) {
+    .footerIconSize {
+        font-size: 54px;
+    }
+}
+
+@media (min-width: 1296px) {
+    .footerIconSize {
+        font-size: 48px;
+    }
+}
+
+.shopListIconSize {
+    font-size: 20px;
+    padding-top: 3px;
+}
+
+.blogIconSize {
+    font-size: 30px;
+}
+
+@media (min-width: 1296px) {
+    .blogContentIconSize {
+        font-size: 38px;
+    }
+}
