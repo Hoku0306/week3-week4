@@ -85,7 +85,7 @@ export default {
     setup() {
         const productList = ref([
             {
-                img: '/img/product-1.png',
+                img: '/week3-week4/img/product-1.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
