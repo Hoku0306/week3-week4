@@ -79,83 +79,84 @@
 
 <script>
 import { RouterLink } from 'vue-router';
+import { ref } from 'vue';
 
 export default {
     setup() {
-        const productList = [
+        const productList = ref([
             {
-                img: 'img/product-1.png',
+                img: '/img/product-1.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-2.png',
+                img: '/img/product-2.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-3.png',
+                img: '/img/product-3.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-4.png',
+                img: '/img/product-4.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-5.png',
+                img: '/img/product-5.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-6.png',
+                img: '/img/product-6.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-1.png',
+                img: '/img/product-1.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-2.png',
+                img: '/img/product-2.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-3.png',
+                img: '/img/product-3.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-4.png',
+                img: '/img/product-4.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-5.png',
+                img: '/img/product-5.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: 'img/product-6.png',
+                img: '/img/product-6.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
-        ]
+        ])
 
         return {
             productList,
