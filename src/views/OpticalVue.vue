@@ -91,67 +91,67 @@ export default {
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-2.png',
+                img: '/week3-week4/img/product-2.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-3.png',
+                img: '/week3-week4/img/product-3.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-4.png',
+                img: '/week3-week4/img/product-4.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-5.png',
+                img: '/week3-week4/img/product-5.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-6.png',
+                img: '/week3-week4/img/product-6.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-1.png',
+                img: '/week3-week4/img/product-1.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-2.png',
+                img: '/week3-week4/img/product-2.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-3.png',
+                img: '/week3-week4/img/product-3.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-4.png',
+                img: '/week3-week4/img/product-4.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-5.png',
+                img: '/week3-week4/img/product-5.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-6.png',
+                img: '/week3-week4/img/product-6.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']

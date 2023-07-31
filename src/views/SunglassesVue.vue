@@ -72,37 +72,37 @@ export default {
     setup() {
         const productList = [
             {
-                img: '/img/product-7.png',
+                img: '/week3-week4/img/product-7.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-8.png',
+                img: '/week3-week4/img/product-8.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-9.png',
+                img: '/week3-week4/img/product-9.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-10.png',
+                img: '/week3-week4/img/product-10.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-11.png',
+                img: '/week3-week4/img/product-11.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']
             },
             {
-                img: '/img/product-12.png',
+                img: '/week3-week4/img/product-12.png',
                 code: 'BJ41600S',
                 price: '3,490',
                 colors: ['bg-productBrownDark', 'bg-productBrown']

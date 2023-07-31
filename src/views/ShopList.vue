@@ -51,35 +51,35 @@ export default {
     setup() {
         const shopList = [
             {
-                img: '/img/store-1.png',
+                img: '/week3-week4/img/store-1.png',
                 name: '台北中山旗艦店',
                 tel: '電話：(02)000-1234',
                 time: '營業時間：10:00-21:00',
                 address: '地址：台北市中山區南京東路25巷2-1號'
             },
             {
-                img: '/img/store-2.png',
+                img: '/week3-week4/img/store-2.png',
                 name: '台北綠園店',
                 tel: '電話：(02)000-1234',
                 time: '營業時間：10:00-21:00',
                 address: '地址：台北市中正區復興南路 132-1 號'
             },
             {
-                img: '/img/store-3.png',
+                img: '/week3-week4/img/store-3.png',
                 name: '台中清水旗艦店',
                 tel: '電話：(02)000-1234',
                 time: '營業時間：10:00-21:00',
                 address: '地址：台中市清水區經南一路 23 號 8 樓'
             },
             {
-                img: '/img/store-4.png',
+                img: '/week3-week4/img/store-4.png',
                 name: '高雄中正形象店',
                 tel: '電話：(07)000-2345',
                 time: '營業時間：10:00-21:00',
                 address: '地址：高雄市苓雅區中正路 38 號 12 樓'
             },
             {
-                img: '/img/store-5.png',
+                img: '/week3-week4/img/store-5.png',
                 name: '高雄夢時代店',
                 tel: '電話：(07)000-1234',
                 time: '營業時間：10:00-21:00',

@@ -26,7 +26,7 @@
                     <h2 class="font-normal md:text-5xl/normal">情人特別企劃</h2>
                     <h3 class="font-medium md:text-2xl/normal">2020 Valentine’s Special</h3>
                     <ul class="mt-6 flex flex-col gap-4 lg:mt-4 lg:gap-10">
-                        <li v-for="item in content">
+                        <li v-for="(item, i) in content" :key="i">
                             <img :src="item.img" alt="blog" class="mb-2">
                             <p class="text-brandGrayDark whitespace-pre-line">{{ item.content }}</p>
                         </li>
@@ -80,22 +80,22 @@ export default {
     setup() {
         const content = [
             {
-                img: '/img/blogpage-1.png',
+                img: '/week3-week4/img/blogpage-1.png',
                 content: `一年一度西洋情人節即將到來，我們推出最強「情人節企劃」，為這個甜蜜的節日加溫。
                   本次拍攝的鏡框款式與 NEEDS CLASSIC 聯名設計款，偶爾跟另一半來個低調情侶單品，結合彼此喜好、找出合適框型款式，在這個春夏輕鬆搭出屬於你們的甜蜜默契！`
             },
             {
-                img: '/img/blogpage-2.png',
+                img: '/week3-week4/img/blogpage-2.png',
                 content: `一年一度西洋情人節即將到來，我們推出最強「情人節企劃」，為這個甜蜜的節日加溫。
                   本次拍攝的鏡框款式與 NEEDS CLASSIC 聯名設計款，偶爾跟另一半來個低調情侶單品，結合彼此喜好、找出合適框型款式，在這個春夏輕鬆搭出屬於你們的甜蜜默契！`
             },
             {
-                img: '/img/blogpage-3.png',
+                img: '/week3-week4/img/blogpage-3.png',
                 content: `一年一度西洋情人節即將到來，我們推出最強「情人節企劃」，為這個甜蜜的節日加溫。
                   本次拍攝的鏡框款式與 NEEDS CLASSIC 聯名設計款，偶爾跟另一半來個低調情侶單品，結合彼此喜好、找出合適框型款式，在這個春夏輕鬆搭出屬於你們的甜蜜默契！`
             },
             {
-                img: '/img/blogpage-4.png',
+                img: '/week3-week4/img/blogpage-4.png',
                 content: `2/14(五)-2/20(日)
                 至本店單筆消費滿2980元, 就送情人節限定眼鏡盒1個
                 期間優惠還有~~持他牌鏡框更換鏡片
