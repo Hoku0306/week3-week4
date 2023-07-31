@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div class="map lg:col-span-3">
-                <img src="/img/螢幕快照 2020-02-13 16.35.44@2x.png" alt="map" class=" md:h-[414px] w-full">
+                <img src="/img/screenshot.png" alt="map" class=" md:h-[414px] w-full">
             </div>
         </div>
     </section>
