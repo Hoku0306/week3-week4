@@ -11,6 +11,10 @@ const routes = [
         component: () => import('../views/HomeVue.vue')
     },
     {
+        path: '/:pathMatch(.*)',
+        redirect: '/Home'
+    },
+    {
         path: '/Blog',
         component: () => import('../views/BlogVue.vue'),
         children: [
