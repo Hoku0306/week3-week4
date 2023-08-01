@@ -12,6 +12,10 @@ const routes = [
         ]
     },
     {
+        path:'*',
+        redirect: '/week3-week4',
+      },
+    {
         path: '/Blog',
         component: () => import('../views/BlogVue.vue'),
         children: [
