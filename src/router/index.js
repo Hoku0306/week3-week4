@@ -12,7 +12,7 @@ const routes = [
     },
     {
         path: '/:pathMatch(.*)',
-        redirect: '/Home'
+        redirect: '/week3-week4'
     },
     {
         path: '/Blog',
