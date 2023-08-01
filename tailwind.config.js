@@ -28,7 +28,7 @@ module.exports = {
         'productBrown': '#B75929'
       },
       backgroundImage: {
-        'homeLogo': "url('img/logo-white.png')",
+        'homeLogo': "url('/img/logo-white.png')",
         'banner': "url('/img/home-header.png')",
         'bannerSm': "url('/img/home-header-sm.png')",
         'collab': "url('/img/index-bg-md.png')",
